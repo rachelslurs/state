@@ -1,4 +1,5 @@
 # State.js
+*This is a modified fork of @nickfargo's repo to provide documentation while he gets his documentation site going again. See gh-pages branch for changes.*
 
 **[State][0]** is a JavaScript library for implementing **[first-class states][1]** on arbitrary **owner** objects.
 
@@ -17,21 +18,21 @@ Visit **[statejs.org][]** for an introduction, with sample code, comprehensive [
 
 
 
-[0]: http://statejs.org/
-[1]: http://statejs.org/docs/#concepts--states
-[2]: http://statejs.org/docs/#concepts--expressions
-[3]: http://statejs.org/docs/#concepts--methods
-[4]: http://statejs.org/docs/#concepts--data
-[5]: http://statejs.org/docs/#concepts--events
-[6]: http://statejs.org/docs/#concepts--object-model
-[7]: http://statejs.org/docs/#concepts--object-model--superstates-and-substates
-[8]: http://statejs.org/docs/#concepts--object-model--parastates-and-composition
-[9]: http://statejs.org/docs/#concepts--object-model--protostates-and-epistates
-[10]: http://statejs.org/docs/#concepts--transitions
+[0]: http://rachelslurs.github.io/state/
+[1]: http://rachelslurs.github.io/state/docs/#concepts--states
+[2]: http://rachelslurs.github.io/state/docs/#concepts--expressions
+[3]: http://rachelslurs.github.io/state/docs/#concepts--methods
+[4]: http://rachelslurs.github.io/state/docs/#concepts--data
+[5]: http://rachelslurs.github.io/state/docs/#concepts--events
+[6]: http://rachelslurs.github.io/state/docs/#concepts--object-model
+[7]: http://rachelslurs.github.io/state/docs/#concepts--object-model--superstates-and-substates
+[8]: http://rachelslurs.github.io/state/docs/#concepts--object-model--parastates-and-composition
+[9]: http://rachelslurs.github.io/state/docs/#concepts--object-model--protostates-and-epistates
+[10]: http://rachelslurs.github.io/state/docs/#concepts--transitions
 
-[statejs.org]:       http://statejs.org/
-[documentation]:     http://statejs.org/docs/
-[getting started]:   http://statejs.org/docs/#getting-started
-[overview]:          http://statejs.org/docs/#overview
-[API]:               http://statejs.org/api/
-[annotated source]:  http://statejs.org/source/
+[statejs.org]:       http://rachelslurs.github.io/state/
+[documentation]:     http://rachelslurs.github.io/state/docs/
+[getting started]:   http://rachelslurs.github.io/state/docs/#getting-started
+[overview]:          http://rachelslurs.github.io/state/docs/#overview
+[API]:               http://rachelslurs.github.io/state/api/
+[annotated source]:  http://rachelslurs.github.io/state/source/
