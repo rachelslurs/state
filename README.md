@@ -1,5 +1,8 @@
 # State.js
+
+:exclamation:
 *This is a modified fork of @nickfargo's repo to provide documentation while he gets his documentation site going again. See gh-pages branch for changes.*
+ 
 
 **[State][0]** is a JavaScript library for implementing **[first-class states][1]** on arbitrary **owner** objects.
 
@@ -13,7 +16,7 @@ An owner object exhibits the behavior expressed by its **current state** — met
 
 Visit **[statejs.org][]** for an introduction, with sample code, comprehensive [documentation][] including a [getting started][] guide and conceptual [overview][], [API][] reference, and [annotated source][].
 
-### &#x1f44b;
+
 
 
 
